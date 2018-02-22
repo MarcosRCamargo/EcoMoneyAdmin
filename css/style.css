@@ -1,0 +1,15 @@
+html,body,h1,h2,h3,h4,h5 {
+    font-family: "Raleway", sans-serif
+}
+#map {
+    width: 100%;
+    height: 400px;
+    background-color: grey;
+}
+.logo{
+    font-family: 'Permanent Marker', cursive;
+}
+.menu{
+    background-color: #28c828;
+}
+/*wizard*/

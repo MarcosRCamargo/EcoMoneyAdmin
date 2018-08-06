@@ -5,7 +5,7 @@
  * Date: 17/02/2018
  * Time: 10:34
  */
-include ("header.php");
+include("header.php");
 ?>
 <div class="py-5">
     <div class="container">
@@ -29,4 +29,4 @@ include ("header.php");
     </div>
 </div>
 <?php
-include ("footer.php");
+include("footer.php");
